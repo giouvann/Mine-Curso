@@ -33,7 +33,6 @@ Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutu
 ---
 
 ## 📸 Screenshots
-> 
-
+> <img width="1354" height="673" alt="tela-inicial-petlife" src="https://github.com/user-attachments/assets/65794322-2c45-4496-89c8-e9ca51f8d34d" />
 
 
