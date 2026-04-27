@@ -1,10 +1,10 @@
-# 🐾 PetLife
+#  PetLife
 
 Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutura, estilo e interatividade simples.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 - **HTML5** → Estrutura semântica do site
 - **CSS3** → Estilização responsiva e design moderno
 - **JavaScript (ES6)** → Interatividade (FAQ expansível)
@@ -13,7 +13,7 @@ Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutu
 
 ---
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 /
 ├── index.html # Página principal
 ├── index.css # Estilos da aplicação
@@ -24,7 +24,7 @@ Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutu
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 - Menu de navegação estilizado
 - Seção inicial com destaque visual
 - FAQ interativo (abre e fecha ao clicar)
@@ -32,7 +32,7 @@ Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutu
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 ### Página inicial
 > <img width="1354" height="673" alt="tela-inicial-petlife" src="https://github.com/user-attachments/assets/65794322-2c45-4496-89c8-e9ca51f8d34d" />
 
